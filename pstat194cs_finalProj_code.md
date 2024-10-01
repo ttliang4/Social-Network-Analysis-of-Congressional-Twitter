@@ -1,4 +1,4 @@
-PSTAT 194cs Final Project
+Twitter Social Network Analysis
 ================
 Tingting Liang
 2024-06-08
